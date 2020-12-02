@@ -1,0 +1,4 @@
+Luis Ángel de Ávila Bula
+Juan Ándres Guevara
+
+VER ARCHIVO mainProyecto.m dentro de ambas carpetas lineal/nolineal
